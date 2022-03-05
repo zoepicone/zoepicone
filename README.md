@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zoedelphi
+- 2nd year BSc student at Victoria University of Wellington
+- Currently learning Java/C/Ruby/Vala
+- Looking to learn more about low level programming
