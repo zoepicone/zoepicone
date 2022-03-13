@@ -2,4 +2,3 @@
 - 2nd year BSc student at Victoria University of Wellington
 - Currently learning Java/C/Ruby
 - Looking to learn more about low level programming
-- You can contact me on my website
