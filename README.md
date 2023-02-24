@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Zoe
 - 2nd year BSc student at Victoria University of Wellington
-- Currently learning Java/C/Ruby
-- Looking to learn more about backend development
+- Ruby on Rails developer
