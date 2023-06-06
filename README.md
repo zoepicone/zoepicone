@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Zoe
-- 2nd year BSc student at Victoria University of Wellington
-- Ruby on Rails developer
+- 3rd year BSc student at Victoria University of Wellington.
+- Ruby on Rails developer, currently working at [Cymonz](https://www.cymonz.com/)
