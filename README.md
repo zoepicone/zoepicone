@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Zoe
-- Masters of Computer Science student at Victoria University of Wellington.
-- Ruby on Rails developer, currently working at [Cymonz](https://www.cymonz.com/)
+- Masters of Computer Science graduate at Victoria University of Wellington.
+- Ruby on Rails developer
